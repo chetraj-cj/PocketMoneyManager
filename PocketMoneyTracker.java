@@ -152,7 +152,7 @@ public class PocketMoneyTracker {
         }
 
         System.out.println(
-                "\n-> Total spent so far: ₹" +
+                "\n-> Total spent so far: Rs" +
                 String.format("%.2f", total)
         );
     }
